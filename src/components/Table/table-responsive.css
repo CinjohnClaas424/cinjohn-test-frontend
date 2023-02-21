@@ -1,0 +1,12 @@
+@media only screen and (max-width: 992px) {
+    .hideCols-med {
+        display: none;
+    }
+}
+
+
+@media only screen and (max-width: 768px) {
+    .hideCols-sm {
+        display: none;
+    }
+}
